@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React SURE! 2nd time okay
+          Learn React SURE! 2nd time okay testing a third time
         </a>
       </header>
     </div>
