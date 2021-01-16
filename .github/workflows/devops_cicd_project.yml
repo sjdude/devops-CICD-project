@@ -23,12 +23,7 @@ jobs:
     - name: npm install
       run: |
         npm install
-    # - name: yarn test
-    #   run: |
-    #     yarn test 
-    #   env:
-    #     CI: true
-      
+         
     - name: npm rebuild
       run: |
         npm rebuild

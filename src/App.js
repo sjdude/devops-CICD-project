@@ -5,6 +5,7 @@ import ReadForm from './components/ReadForm'
 import CreateForm from './components/CreateForm'
 import DeleteForm from './components/DeleteForm'
 import ModifyForm from './components/ModifyForm'
+import Game from './components/TicTacToe'
 
 import "./components/bootstrap.min.css"
 // import "./App.css"
@@ -23,6 +24,7 @@ class App extends React.Component {
                 <CreateForm /><br/>
                 <DeleteForm /><br/>
                 <ModifyForm /><br/>
+                <Game />
             </div>
         )
     }
