@@ -20,11 +20,12 @@ class App extends React.Component {
         return(
             <div>
                 <Header />
+                <Game /><br/>
                 <ReadForm /><br/>
                 <CreateForm /><br/>
                 <DeleteForm /><br/>
                 <ModifyForm /><br/>
-                <Game />
+                
             </div>
         )
     }
