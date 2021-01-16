@@ -7,7 +7,7 @@ function Header() {
              
                 
             <h1>NUS Money Banking Admin App</h1>
-            <p>By Lim Sheng Jun & Soong Xuan De</p>
+            <p>By sjdude &NoRicePls</p>
 
         </header>
     )
