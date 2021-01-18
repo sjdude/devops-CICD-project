@@ -6,7 +6,7 @@ function Header() {
         <header className='jumbotron'>
              
                 
-            <h1>NUS BIGGGG Money Banking Admin App</h1>
+            <h1>NUS Money Banking Admin App</h1>
             <p>By sjdude & NoRicePls</p>
 
         </header>
