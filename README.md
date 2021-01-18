@@ -16,3 +16,4 @@ From the project folder directory run the following:
 ## Continuous Integration/Continuous Deployment (CI/CD)
 * This App uses Github actions to execute a CI/CD pipeline.
 * You can view the workflow file [here](https://github.com/sjdude/devops-CICD-project/blob/main/.github/workflows/devops_cicd_project.yml).
+* Github repository secrets are used to store security sensitive data like the Heroku API keys.
