@@ -27,5 +27,5 @@ From the project folder directory run the following:
   * The updated App is deployed on Heroku.
 
 ### You can view the Heroku-hosted App [here](https://devops-cicd-project.herokuapp.com/).
-### See the demonstraion of the CICD pipeline [here](https://youtu.be/JLPiXLNLqqA)
+### See the demonstration of the CICD pipeline [here](https://youtu.be/JLPiXLNLqqA)
 [![IMAGE ALT TEXT](demonstration.png)](https://youtu.be/JLPiXLNLqqA)
