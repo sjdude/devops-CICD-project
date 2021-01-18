@@ -4,7 +4,7 @@ class CreateForm extends React.Component {
     constructor() {
         super() 
         this.state ={
-            serverUrl : 'http://localhost:8000',
+            serverUrl : 'https://devops-cicd-backend.herokuapp.com',
             tableSelect : '',
             customer_id : '',
             name: '',

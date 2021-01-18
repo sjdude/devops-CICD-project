@@ -7,7 +7,7 @@ function Header() {
              
                 
             <h1>NUS Money Banking Admin App</h1>
-            <p>By sjdude &NoRicePls</p>
+            <p>By sjdude & NoRicePls</p>
 
         </header>
     )
