@@ -13,3 +13,5 @@
 From the project folder directory run the following:
 #### 2. `npm install`
 #### 3. `npm start`
+## Continuous Integration/Continuous Deployment (CI/CD)
+* This App uses Github actions to execute a CI/CD pipeline
