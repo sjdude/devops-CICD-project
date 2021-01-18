@@ -19,7 +19,7 @@ From the project folder directory run the following:
 * Github repository secrets are used to store security sensitive data like the Heroku API keys.
 * On a git push to main, the following will occur in the following order:
   * The main line of the git repository is updated.
-  * App dependencies are re-installed using npm in this case.
+  * App dependencies are re-installed using Node package manager(npm) in this case.
   * The updated App is deployed on Heroku.
 
 You can view the Heroku-hosted App [here](https://devops-cicd-project.herokuapp.com/).
