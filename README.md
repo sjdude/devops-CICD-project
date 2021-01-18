@@ -27,3 +27,5 @@ From the project folder directory run the following:
   * The updated App is deployed on Heroku.
 
 ### You can view the Heroku-hosted App [here](https://devops-cicd-project.herokuapp.com/).
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/JLPiXLNLqqA)
