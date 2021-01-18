@@ -17,3 +17,7 @@ From the project folder directory run the following:
 * This App uses Github actions to execute a CI/CD pipeline.
 * You can view the workflow file [here](https://github.com/sjdude/devops-CICD-project/blob/main/.github/workflows/devops_cicd_project.yml).
 * Github repository secrets are used to store security sensitive data like the Heroku API keys.
+* On a git push to main, the following will occur in the following order:
+  * The main line of the git repository will be updated
+  * App dependencies will be re-installed
+  * The updated App will be deployed on Heroku
