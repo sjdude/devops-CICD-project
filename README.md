@@ -9,7 +9,7 @@
 * The back-end module is deployed in a Docker container through [Heroku's Container Registry](https://devcenter.heroku.com/articles/container-registry-and-runtime).
 * The mySQL database is hosted on [Heroku's ClearDB mySQL App add-on](https://elements.heroku.com/addons/cleardb).
 
-#### You can view the Heroku-hosted App [here](https://devops-cicd-project.herokuapp.com/).
+### You can view the Heroku-hosted App [here](https://devops-cicd-project.herokuapp.com/).
 
 Note: Apps hosted on Heroku go to sleep after a period of inactivity. Initial loading/queries may take 10-15s as the App re-awakens.
 # To run this App locally, run the following commands from your command line:
