@@ -5,7 +5,7 @@
   * React.js - front-end
   * Express.js & Node.js - back-end
   * mySQL - database
-* The entire stack has been deployed online on three separate Apps on Heroku simulating the front-end, back-end and database. You can try it [here](https://devops-cicd-project.herokuapp.com/).
+* The entire stack has been deployed on three separate Heroku Apps on Heroku simulating the front-end, back-end and database. You can try it [here](https://devops-cicd-project.herokuapp.com/).
 
   Note: Apps hosted on Heroku go to sleep after a period of inactivity. Initial loading/queries may take 10-15s as the App re-awakens.
 ## To run this App locally, run the following commands from your command line:
