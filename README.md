@@ -1,4 +1,4 @@
-## devops-CICD-project App Background
+## App Background
 * This repository contains the front-end component of a MERN-stack project created for the NUS SGUS Fintech program.
 * This App simulates a primitive banking administrative portal and is intended as a demonstration of CRUD(Create, Read, Update, Delete) APIs.
 * The project's MERN-stack utilizes the following:
