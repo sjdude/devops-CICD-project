@@ -21,4 +21,5 @@ From the project folder directory run the following:
   * The main line of the git repository will be updated.
   * App dependencies will be re-installed using npm in this case.
   * The updated App will be deployed on Heroku.
+
 You can view the hosted App [here](https://devops-cicd-project.herokuapp.com/).
