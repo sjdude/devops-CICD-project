@@ -26,4 +26,4 @@ From the project folder directory run the following:
   * App dependencies are re-installed using Node package manager(npm) in this case.
   * The updated App is deployed on Heroku.
 
-You can view the Heroku-hosted App [here](https://devops-cicd-project.herokuapp.com/).
+### You can view the Heroku-hosted App [here](https://devops-cicd-project.herokuapp.com/).
