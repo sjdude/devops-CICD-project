@@ -14,10 +14,10 @@
 Note: Apps hosted on Heroku go to sleep after a period of inactivity. Initial loading/queries may take 10-15s as the App re-awakens.
 
 # Continuous Integration/Continuous Deployment (CI/CD)
-* This App uses Github actions to execute a CI/CD pipeline.
-* You can view the workflow file [here](https://github.com/sjdude/devops-CICD-project/blob/main/.github/workflows/devops_cicd_project.yml).
-* Github repository secrets are used to store security sensitive data like the Heroku API keys.
-* On a git push to main, the following will occur in the following order:
+* This App uses GitHub Actions to execute a CI/CD pipeline.
+* You can view the GitHub Actions workflow file [here](https://github.com/sjdude/devops-CICD-project/blob/main/.github/workflows/devops_cicd_project.yml).
+* GitHub repository secrets are used to store security sensitive data like the Heroku API keys.
+* On a git push to main, the following will occur in the respective order:
   * The main line of the git repository is updated.
   * App dependencies are re-installed using Node package manager(npm) in this case.
   * The updated App is deployed on Heroku.
