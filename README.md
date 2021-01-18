@@ -5,7 +5,7 @@
   * React.js - front-end
   * Express.js & Node.js - back-end
   * mySQL - database
-* The entire stack has been deployed on three separate Heroku Apps on Heroku simulating the front-end, back-end and database. 
+* The entire stack has been deployed on three separate Heroku Apps simulating the front-end, back-end and database. 
 * The back-end module is deployed in a Docker container through [Heroku's Container Registry](https://devcenter.heroku.com/articles/container-registry-and-runtime).
 * The mySQL database is hosted on [Heroku's ClearDB mySQL App add-on](https://elements.heroku.com/addons/cleardb).
 
