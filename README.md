@@ -6,8 +6,8 @@
   * Express.js & Node.js - back-end
   * mySQL - database
 * The entire stack has been deployed on three separate Heroku Apps on Heroku simulating the front-end, back-end and database. You can try it [here](https://devops-cicd-project.herokuapp.com/).
-* The back-end module is deployed in a Docker container.
-* The database is hosted on Heroku's ClearDB App add-on.
+* The back-end module is deployed in a Docker container through [Heroku's Container Registry](https://devcenter.heroku.com/articles/container-registry-and-runtime).
+* The mySQL database is hosted on Heroku's [ClearDB mySQL App add-on](https://elements.heroku.com/addons/cleardb).
 
   Note: Apps hosted on Heroku go to sleep after a period of inactivity. Initial loading/queries may take 10-15s as the App re-awakens.
 # To run this App locally, run the following commands from your command line:
