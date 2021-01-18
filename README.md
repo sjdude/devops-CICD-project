@@ -12,7 +12,7 @@
 ### You can view the Heroku-hosted App [here](https://devops-cicd-project.herokuapp.com/).
 
 Note: Apps hosted on Heroku go to sleep after a period of inactivity. Initial loading/queries may take 10-15s as the App re-awakens.
-# To run this App locally, run the following commands from your command line:
+# To run this App locally, run the following commands from your cl:
 #### 1. `git clone https://github.com/sjdude/devops-CICD-project.git`
 From the project folder directory run the following:
 #### 2. `npm install`
